@@ -6,6 +6,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901452.svg)](https://zenodo.org/record/3901452)
 
 
+
+
 ## Installation
 If you just want to install and use DuckDB, please see [our website](https://www.duckdb.org) for installation and usage instructions.
 
